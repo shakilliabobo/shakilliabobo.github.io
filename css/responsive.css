@@ -1,0 +1,11 @@
+/* MEDIA QUERIES
+ * Author: Shakillia (Freedom Creative Solutions)
+ */
+ 
+ 
+/* Smartphones (portrait and landscape) ----------- */
+
+@media (max-width: 900px){.fa{font-size:20px;padding:10px;}}
+
+
+@media (max-width: 600px){.carousel-caption{display:none;}#icon{max-width:150px;}h2{font-size:1.7em;}}
