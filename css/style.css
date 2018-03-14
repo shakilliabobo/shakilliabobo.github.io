@@ -25,7 +25,8 @@ p {font-size: 15px;color: #4e5a74;font-family: 'Titillium Web', sans-serif;}
     .icon-hover:hover > #iconHover {display:none;}
     
     /*ABOUT ME*/
-    .aboutMeSection{background:#B6C7E2;}
+    /*.aboutMeSection{background:#B6C7E2;}*/
+    .aboutMeSection{background: url(./img/painted-textured-background.jpeg);}
     .aboutMeButton{background-color: #4e5a74;
     color: #fff;
     border: 1px solid #625d5d;
