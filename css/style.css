@@ -37,6 +37,9 @@ p {font-size: 15px;color: #4e5a74;font-family: 'Titillium Web', sans-serif;}
     #projectsBox:hover {background-color:#5F4184;color:#fff;transition:all 0.2s ease-in;cursor:pointer;}
     #projectsBox:hover > p {color:#fff;}
     #projectsBox:hover > h4 {color:#fff;}
+
+    /*CONTACT FORM */
+    .contactForm {background-color:#bfb7e1;}
     
     /*FOOTER*/
     .fa{padding:15px;font-size:25px;color:#fff;}
