@@ -34,7 +34,7 @@ p {font-size: 15px;color: #4e5a74;font-family: 'Titillium Web', sans-serif;}
     
     /*TEAM PROJECTS - PERSONAL PROJECTS*/
     .purpleBorder {border: 1px solid #5F4184;padding: 30px;margin: 5px;box-shadow: 4px 9px 16px #888;}
-    #projectsBox:hover {background-color:#5F4184;color:#fff;transition:all 0.2s ease-in;}
+    #projectsBox:hover {background-color:#5F4184;color:#fff;transition:all 0.2s ease-in;cursor:pointer;}
     #projectsBox:hover > p {color:#fff;}
     #projectsBox:hover > h4 {color:#fff;}
     
